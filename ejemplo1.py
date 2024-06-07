@@ -6,7 +6,7 @@ e=12
 s=a+b+c+d+e
 r=c-a-b-d-e
 m=a*b*c*d*e
-di=c/12/10/8/5
+di=a/b/c/d/e
 print ("la suma es de", s)
 print ("la resta es de", r)
 print ("la multiplicación es de", m)
